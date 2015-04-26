@@ -1,80 +1,80 @@
-##List of selected columns
-tBodyAcc-mean-X
-tBodyAcc-std-X
-tGravityAcc-mean-X
-tGravityAcc-std-X
-tBodyAccJerk-mean-X
-tBodyAccJerk-std-X
-tBodyGyro-mean-X      
-tBodyGyro-std-X            
-tBodyGyroJerk-mean-X
-tBodyGyroJerk-std-X        
-tBodyAccMag-mean 
-tGravityAccMag-std
-tBodyGyroMag-mean          
-tBodyGyroJerkMag-std
-fBodyAcc-mean-Z
-fBodyAcc-std-Z       
-fBodyAcc-meanFreq-Z
-fBodyAccJerk-mean-Z
-fBodyAccJerk-std-Z         
-fBodyAccJerk-meanFreq-Z
-fBodyGyro-mean-Z
-fBodyGyro-std-Z     
-fBodyGyro-meanFreq-Z
-fBodyAccMag-meanFreq
-fBodyBodyAccJerkMag-meanFreq
-fBodyBodyGyroMag-meanFreq
-fBodyBodyGyroJerkMag-meanFreq
-tBodyAcc-mean-Y
-tBodyAcc-std-Y
-tGravityAcc-mean-Y
-tGravityAcc-std-Y   
-tBodyAccJerk-mean-Y
-tBodyAccJerk-std-Y             
-tBodyGyro-mean-Y          
-tBodyGyro-std-Y                
-tBodyGyroJerk-mean-Y
-tBodyGyroJerk-std-Y            
-tBodyAccMag-std    
-tBodyAccJerkMag-mean
-tBodyGyroMag-std   
-fBodyAcc-mean-X                
-fBodyAcc-std-X                 
-fBodyAcc-meanFreq-X
-fBodyAccJerk-mean-X
-fBodyAccJerk-std-X            
-fBodyAccJerk-meanFreq-X
-fBodyGyro-mean-X
-fBodyGyro-std-X        
-fBodyGyro-meanFreq-X
-fBodyAccMag-mean
-fBodyBodyAccJerkMag-mean
-fBodyBodyGyroMag-mean
-fBodyBodyGyroJerkMag-mean
-tBodyAcc-mean-Z
-tBodyAcc-std-Z
-tGravityAcc-mean-Z
-tGravityAcc-std-Z
-tBodyAccJerk-mean-Z
-tBodyAccJerk-std-Z    
-tBodyGyro-mean-Z   
-tBodyGyro-std-Z
-tBodyGyroJerk-mean-Z
-tBodyGyroJerk-std-Z
-tGravityAccMag-mean
-tBodyAccJerkMag-std
-tBodyGyroJerkMag-mean
-fBodyAcc-mean-Y
-fBodyAcc-std-Y  
-fBodyAcc-meanFreq-Y
-fBodyAccJerk-mean-Y
-fBodyAccJerk-std-Y
-fBodyAccJerk-meanFreq-Y
-fBodyGyro-mean-Y
-fBodyGyro-std-Y
-fBodyGyro-meanFreq-Y
-fBodyAccMag-std
-fBodyBodyAccJerkMag-std
-fBodyBodyGyroMag-std
-fBodyBodyGyroJerkMag-std
+#List of selected columns
+	1. tBodyAcc-mean-X
+	2. tBodyAcc-std-X
+	3. tGravityAcc-mean-X
+	4. tGravityAcc-std-X
+	5. tBodyAccJerk-mean-X
+	6. tBodyAccJerk-std-X
+	7. tBodyGyro-mean-X      
+	8. tBodyGyro-std-X            
+	9. tBodyGyroJerk-mean-X
+	10.tBodyGyroJerk-std-X        
+	11.tBodyAccMag-mean 
+	12.tGravityAccMag-std
+	13.tBodyGyroMag-mean          
+	14.tBodyGyroJerkMag-std
+	15.fBodyAcc-mean-Z
+	16.fBodyAcc-std-Z       
+	17.fBodyAcc-meanFreq-Z
+	18.fBodyAccJerk-mean-Z
+	19.fBodyAccJerk-std-Z         
+	20.fBodyAccJerk-meanFreq-Z
+	21.fBodyGyro-mean-Z
+	22.fBodyGyro-std-Z     
+	23.fBodyGyro-meanFreq-Z
+	24.fBodyAccMag-meanFreq
+	25.fBodyBodyAccJerkMag-meanFreq
+	26.fBodyBodyGyroMag-meanFreq
+	27.fBodyBodyGyroJerkMag-meanFreq
+	28.tBodyAcc-mean-Y
+	29.tBodyAcc-std-Y
+	30.tGravityAcc-mean-Y
+	31.tGravityAcc-std-Y   
+	32.tBodyAccJerk-mean-Y
+	33.tBodyAccJerk-std-Y             
+	34.tBodyGyro-mean-Y          
+	35.tBodyGyro-std-Y                
+	36.tBodyGyroJerk-mean-Y
+	37.tBodyGyroJerk-std-Y            
+	38.tBodyAccMag-std    
+	39.tBodyAccJerkMag-mean
+	40.tBodyGyroMag-std   
+	41.fBodyAcc-mean-X                
+	42.fBodyAcc-std-X                 
+	43.fBodyAcc-meanFreq-X
+	44.fBodyAccJerk-mean-X
+	45.fBodyAccJerk-std-X            
+	46.fBodyAccJerk-meanFreq-X
+	47.fBodyGyro-mean-X
+	48.fBodyGyro-std-X        
+	49.fBodyGyro-meanFreq-X
+	50.fBodyAccMag-mean
+	51.fBodyBodyAccJerkMag-mean
+	52.fBodyBodyGyroMag-mean
+	53.fBodyBodyGyroJerkMag-mean
+	54.tBodyAcc-mean-Z
+	55.tBodyAcc-std-Z
+	56.tGravityAcc-mean-Z
+	57.tGravityAcc-std-Z
+	58.tBodyAccJerk-mean-Z
+	59.tBodyAccJerk-std-Z    
+	60.tBodyGyro-mean-Z   
+	61.tBodyGyro-std-Z
+	62.tBodyGyroJerk-mean-Z
+	63.tBodyGyroJerk-std-Z
+	64.tGravityAccMag-mean
+	65.tBodyAccJerkMag-std
+	66.tBodyGyroJerkMag-mean
+	67.fBodyAcc-mean-Y
+	68.fBodyAcc-std-Y  
+	69.fBodyAcc-meanFreq-Y
+	70.fBodyAccJerk-mean-Y
+	71.fBodyAccJerk-std-Y
+	72.fBodyAccJerk-meanFreq-Y
+	73.fBodyGyro-mean-Y
+	74.fBodyGyro-std-Y
+	75.fBodyGyro-meanFreq-Y
+	76.fBodyAccMag-std
+	77.fBodyBodyAccJerkMag-std
+	78.fBodyBodyGyroMag-std
+	79.fBodyBodyGyroJerkMag-std
